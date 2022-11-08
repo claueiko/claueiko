@@ -1,4 +1,6 @@
-### Hi there 👋
+# Hi, I'm Claudia 😊
+
+### Frontend Software Engineer based in the UK 🇬🇧 from 🇧🇷
 
 <!--
 **claueiko/claueiko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
